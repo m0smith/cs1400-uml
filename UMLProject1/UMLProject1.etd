@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE XMI SYSTEM "C:\Users\Smith\AppData\Roaming\NetBeans\7.3.1\.uml\config\UML_2.0EMBT.dtd"> --><XMI xmlns:UML="omg.org/UML/1.4" xmi.version="2.0"> <XMI.header> <XMI.metamodel xmi.name="UML" xmi.version="1.4"/> <XMI.documentation> <XMI.exporter> Embarcadero's Describe </XMI.exporter> <XMI.exporterVersion> 6.0 </XMI.exporterVersion> </XMI.documentation> </XMI.header> <XMI.content> <UML:Project xmi.id="DCE.CCBA5574-4B32-C6EE-3AA5-EE6C3CE6570E" mode="Implementation" defaultLanguage="Java" projVersion="6.1.4.837" name="UMLProject1"><UML:Element.ownedElement>
+<UML:Activity xmi.id="DCE.F087B1CC-88DF-6D58-9BA6-E3ADAAAEE029" name="Activity Diagram 1" owner="DCE.CCBA5574-4B32-C6EE-3AA5-EE6C3CE6570E"><UML:Element.ownedElement>
+<UML:ActivityFinalNode xmi.id="DCE.F465AD08-F6E7-B37B-0EAD-A477DB15260E" name="Unnamed" owner="DCE.F087B1CC-88DF-6D58-9BA6-E3ADAAAEE029"><UML:Element.presentation>
+
+</UML:Element.presentation></UML:ActivityFinalNode></UML:Element.ownedElement></UML:Activity></UML:Element.ownedElement></UML:Project></XMI.content> </XMI>
